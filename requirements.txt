@@ -1,0 +1,17 @@
+streamlit
+streamlit-feedback
+google-generativeai
+python-dotenv
+langchain
+langsmith
+langchain_google_genai
+langchain_core
+langchain_community
+regex
+IPython
+pandas
+google-play-scraper
+beautifulsoup4
+faiss-cpu
+
+-e .
