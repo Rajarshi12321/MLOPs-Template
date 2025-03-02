@@ -9,3 +9,7 @@ os.environ["LANGCHAIN_API_KEY"] = os.getenv("LANGCHAIN_API_KEY")
 ans = my_query("can you reccomend me some fantasy games? about 2 games")
 
 print(ans)
+
+
+git remote add origin https://github.com/Rajarshi12321/MLOPs-Template.git
+git push -u origin main
