@@ -1,3 +1,10 @@
+```python
+git remote remove origin
+git remote -v
+git remote add origin <new-url>
+```
+
+
 # Game Recommender Project
 
 - [LinkedIn - Rajarshi Roy](https://www.linkedin.com/in/rajarshi-roy-learner/)
