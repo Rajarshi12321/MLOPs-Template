@@ -4,6 +4,10 @@ git remote -v
 git remote add origin <new-url>
 ```
 
+1st push:
+```python
+git push --set-upstream origin main
+```
 
 # Game Recommender Project
 
